@@ -4,7 +4,7 @@ External.exe
 External.exe is a program which allows an external text editor to
 be run from any application using a single keystroke.
 
-web: http://bur.st/~benc/?p=external
+web: http://code.google.com/p/external-exe/
 
 Installation and Configuration
 ==============================
