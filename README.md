@@ -68,13 +68,13 @@ License
 =======
 
 Author: Ben Collerson &lt;benc at bur dot st&gt;  
-Contributor: Felix E. Klee <mailto:felix.klee@inka.de>  
+Contributor: [Felix E. Klee](mailto:felix.klee@inka.de)  
 Last Modified: 06 Oct 2015  
 Version: 0.3.1  
 Logo: Based on <http://en.wikipedia.org/wiki/File:External.svg> (public domain)
 
-Copyright (C) 2005–2015 Ben Collerson &lt;benc at bur dot st&gt;, Felix E. Klee
-<felix.klee@inka.de>
+Copyright (C) 2005–2015 Ben Collerson &lt;benc at bur dot st&gt;,
+[Felix E. Klee](mailto:felix.klee@inka.de)
 
 This file is part of External.exe.
 
