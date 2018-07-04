@@ -39,9 +39,10 @@ The program can be started by manually running the `external.exe` command. But
 once you get a configuration you like you may want to place a shortcut in your
 `Start/Programs/Startup` folder so it will be automatically executed.
 
-Tip: When configuring external.exe it can be useful to use the Restart
+Tip: When configuring `external.exe` it can be useful to use the Restart
 (*Shift-Ctrl-Alt-R*) and Exit (*Shift-Ctrl-Alt-X*) bindings to reconfigure your
 program.
+
 
 Usage
 =====
@@ -49,6 +50,7 @@ Usage
 To use the program, once it is configured and running, move the cursor to the
 text area of an application and type your `!EditorBinding` keystroke
 (*Windows-V,* for example)
+
 
 Vim
 ===
@@ -62,6 +64,16 @@ clue.
 `external.vim` has so far only been tested on a small number of applications
 and filetypes, but it should be relatively easy to add new filetypes by
 modifying the `External()` function in the script.
+
+
+Compilation from source code
+============================
+
+ 1. Install [AutoIt][3] v3 or compatible.
+ 
+ 2. Compile `external.au3` to `external.exe`:
+ 
+        Aut2exe.exe /In external.au3 /Icon logo.ico
 
 
 License
@@ -93,3 +105,4 @@ this program. If not, see <http://www.gnu.org/licenses/>.
 
 [1]: http://vim.wikia.com/wiki/VimTip805
 [2]: http://vim.sourceforge.net/
+[3]: https://en.wikipedia.org/wiki/AutoIt
