@@ -6,7 +6,7 @@ was originally developed by Ben Collerson, starting from discussions around
 [Vim tip 805][1].
 
 With version 0.3 and with permission from Ben, External.exe has been updated
-from GPLv2 to GPLv3 and hosting has moved to Google Code Project Hosting.
+from GPLv2 to GPLv3 and hosting has moved.
 
 
 Example Use Case
