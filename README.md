@@ -70,10 +70,15 @@ Compilation from source code
 ============================
 
  1. Install [AutoIt][3] v3 or compatible.
- 
+
  2. Compile `external.au3` to `external.exe`:
- 
-        Aut2exe.exe /In external.au3 /Icon logo.ico
+
+        Aut2exe.exe /in external.au3 /out external.exe /icon logo.ico /x86 /gui
+
+ 3. And/Or compile a version for 64 bits:
+
+        Aut2exe_x64.exe /in external.au3 /out external_x64.exe /icon logo.ico ^
+            /x64 /gui
 
 
 License
